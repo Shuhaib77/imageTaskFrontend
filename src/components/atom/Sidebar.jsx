@@ -11,7 +11,7 @@ function Sidebar() {
             <h1>deddrf3</h1>
             <h1>deddrf3</h1>
           </div>
-          <div className="w-full h-full h-1/2    rounded justify-around items-center"></div>
+          <div className="w-full  h-1/2    rounded justify-around items-center"></div>
         </div>
       </div>
     </>
